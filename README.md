@@ -1,5 +1,6 @@
 # DPM
 Repository for ECSE211 (Design principles and methods) Labs
+Final Project is about resucing trailer
 # Contents
 * Lab1: Wall Following
 Design and implement a wall following system that can navigate around a sequence of blocks and obstacles that form a wall containing gaps, concave corners, and convex corners.
